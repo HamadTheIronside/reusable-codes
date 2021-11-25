@@ -11,6 +11,12 @@ Code that I think can be interesting or useful that I wrote.
 - [useOutsideAlerter Hook](https://github.com/HamadTheIronside/reusable-codes/blob/main/hooks/useOutsideAlerter.ts) 
 - [useStateRef Hook](https://github.com/HamadTheIronside/reusable-codes/blob/main/hooks/useStateRef.ts)
 - [useCountDown Hook](https://github.com/HamadTheIronside/reusable-codes/blob/main/hooks/useCountDown.ts)
+- [react-local-cache](https://github.com/HamadTheIronside/react-local-cache)
+- [use-resumable](https://github.com/HamadTheIronside/use-resumable)
+
+## Redux
+
+- [redux-store-subscribe](https://github.com/HamadTheIronside/redux-store-subscribe)
 
 ## Utils Functions
 
