@@ -1,6 +1,6 @@
 # reusable-codes
 
-Code that I think can be interesting or useful that I wrote.
+Code I wrote and I think would be interesting or useful that I wrote.
 
 # JavaScript
 
